@@ -1,0 +1,20 @@
+Fonte:
+https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/using-conda-with-arcgis-pro.htm
+
+Errado: C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3
+C:\Users\96328576749\AppData\Local\Programs\ArcGIS\Pro\bin\Python\envs\arcgispro-py3
+
+.) Ambiente - Conda
+proenv.bat
+C:\Users\96328576749\AppData\Local\Programs\ArcGIS\Pro\bin\Python\Scripts\proenv.bat
+
+..) Rodar o "jupyter notebook" ou "jupyter lab"
+(arcgispro-py3) C:\Users\96328576749>jupyter lab
+
+.) Executar o CMD
+windows->cmd
+* Irá abrir no diretório do usuário
+.) Executar o script
+C:\Users\96328576749\AppData\Local\Programs\ArcGIS\Pro\bin\Python\Scripts\proenv.bat
+.) Executar o "jupyter lab" no ambiente do conda
+(arcgispro-py3) C:\Users\96328576749>jupyter lab
